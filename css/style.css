@@ -44,7 +44,6 @@ body {
 .Producto img {
     width: 240px;
     margin-right: 80px;
-    align-items: center;
 }
 
 .texto{
@@ -57,7 +56,7 @@ body {
     align-items: center; 
     width: 100%;
     height: 100px; 
-    background-color: #a040009f;
+    background-color: #e5ff00;
     text-align: center;
     border-radius: 5px;
 }
